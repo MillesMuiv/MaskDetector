@@ -1,0 +1,6 @@
+setup.py
+mask_detector.egg-info/PKG-INFO
+mask_detector.egg-info/SOURCES.txt
+mask_detector.egg-info/dependency_links.txt
+mask_detector.egg-info/requires.txt
+mask_detector.egg-info/top_level.txt
