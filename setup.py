@@ -5,11 +5,11 @@ setup(
     version="0.1",
     packages=find_packages(),
     install_requires=[
-        'numpy>=1.21.0',
+        'numpy>=2.0.0',
         'pandas>=1.3.0',
         'torch>=1.9.0',
         'torchvision>=0.10.0',
-        'tensorflow>=2.6.0',
+        'tensorflow>=2.12.0',
         'keras>=2.6.0',
         'matplotlib>=3.4.0',
         'seaborn>=0.11.0',
@@ -19,5 +19,5 @@ setup(
         'scipy>=1.7.0',
         'imutils'
     ],
-    python_requires='>=3.8',
+    python_requires='<3.13',
 )
