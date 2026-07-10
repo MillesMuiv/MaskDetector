@@ -52,6 +52,25 @@ Key dependencies:
 - OpenCV ≥ 4.5
 - NumPy, scikit-learn, matplotlib, imutils
 
+!!3.10 python version is highly recommended!!
+
+Pull from github:
+
+```bash
+git clone https://github.com/MillesMuiv/MaskDetector
+cd maskdetector
+python3.10 venv .venv
+```
+For Windows:
+
+```bash
+.venv/scripts/activate
+```
+For Linux:
+
+```bash
+source .venv/bin/activate
+```
 Install with pip:
 
 ```bash
