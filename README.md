@@ -64,7 +64,7 @@ python3.10 venv .venv
 For Windows:
 
 ```bash
-.venv/scripts/activate
+source .venv/scripts/activate
 ```
 For Linux:
 
