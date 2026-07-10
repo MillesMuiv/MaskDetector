@@ -36,7 +36,7 @@ MaskDetector/
 ├── face_detector/             # Caffe face detection model
 │   ├── deploy.prototxt
 │   └── res10_300x300_ssd_iter_140000.caffemodel
-├── dataset/                   # Training images (not included)
+├── dataset/                   # Training images
 │   ├── with_mask/
 │   └── without_mask/
 └── mask_detector.egg-info/    # Package metadata
